@@ -5,7 +5,7 @@ Amo aprender coisas novas e tenho uma curiosidade por tudo que envolve o mundo d
 #### Formação:
 •  💻 Técnica em Informática - IFSP (Instituto Federal de São Paulo)
 
-#### Contato:
+#### Vamos nos conectar:
 <a href="isabelyrochadeoliveira2@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
@@ -19,7 +19,7 @@ Amo aprender coisas novas e tenho uma curiosidade por tudo que envolve o mundo d
 </a>
 
 ##
-#### Minhas habilidades em tecnologia incluem:
+#### 🔧 Minhas habilidades em tecnologia incluem:
 <div style="display: inline">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
