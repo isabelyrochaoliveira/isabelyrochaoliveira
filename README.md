@@ -6,11 +6,7 @@ Amo aprender coisas novas e tenho uma curiosidade por tudo que envolve o mundo d
 •  💻 Técnica em Informática - IFSP (Instituto Federal de São Paulo)
 
 #### Vamos nos conectar:
-<a href="isabelyrochadeoliveira2@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="www.linkedin.com/in/isabely-rocha-de-oliveira-7121b8255">
+<a href="https://www.linkedin.com/in/isabely-rocha-de-oliveira-7121b8255">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
