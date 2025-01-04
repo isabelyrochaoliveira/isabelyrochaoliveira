@@ -1,6 +1,8 @@
 ### 👋Olá, sou Isabely Rocha! 
 
 Amo aprender coisas novas e tenho uma curiosidade por tudo que envolve o mundo da tecnologia
+Estou sempre buscando aprender novas ferramentas e técnicas para criar soluções que impactem positivamente as pessoas e o mundo ao meu redor.
+
 
 #### Formação:
 •  💻 Técnica em Informática - IFSP (Instituto Federal de São Paulo)
