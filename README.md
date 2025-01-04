@@ -12,10 +12,6 @@ Estou sempre buscando aprender novas ferramentas e técnicas para criar soluçõ
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://www.instagram.com/_isawxr_?igsh=YW5iOTQyY2I3eWk1">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-
 ##
 #### 🔧 Minhas habilidades em tecnologia incluem:
 <div style="display: inline">
