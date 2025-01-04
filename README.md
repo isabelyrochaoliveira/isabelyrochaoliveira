@@ -29,6 +29,6 @@ Estou sempre buscando aprender novas ferramentas e técnicas para criar soluçõ
 - [**Agrogenda**](https://github.com/isabelyrochaoliveira/agrogenda)  
   Sistema de gestão de tarefas no setor agropecuário utilizando **Java** e **Firebase**.
   
-- [**Happy Brain**](https://github.com/isabelyrochaoliveira/happy-brain)  
+- [**Happy Brain**](https://github.com/isabelyrochaoliveira/BisHappyMind)  
   Aplicativo que utiliza **React Native** para monitoramento emocional com integração a smartwatches e realidade virtual.
 
