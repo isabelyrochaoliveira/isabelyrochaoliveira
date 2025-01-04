@@ -27,3 +27,12 @@ Estou sempre buscando aprender novas ferramentas e técnicas para criar soluçõ
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 </div>
+
+##
+### 🚀 Projetos em Destaque
+- [**Agrogenda**](https://github.com/isabelyrochaoliveira/agrogenda)  
+  Sistema de gestão de tarefas no setor agropecuário utilizando **Java** e **Firebase**.
+  
+- [**Happy Brain**](https://github.com/isabelyrochaoliveira/happy-brain)  
+  Aplicativo que utiliza **React Native** para monitoramento emocional com integração a smartwatches.
+
