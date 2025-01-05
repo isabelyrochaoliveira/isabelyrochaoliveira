@@ -1,8 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B18F7&width=435&lines=Ol%C3%A1%2C+sou+Isabely+Rocha;Sou+desenvolvedora;Sou+programadora)](https://git.io/typing-svg)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B18F7&width=435&lines=Ol%C3%A1%2C+sou+Isabely+Rocha;Sou+desenvolvedora;Sou+programadora" alt="Typing SVG" /></a>
-
-
-### 👋Olá, sou Isabely Rocha! 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=F2F70E&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+me+chamo+Isabely+Rocha!;Sou+desenvolvedora;Sou+t%C3%A9cnica+de+inform%C3%A1tica;Sou+programadora" alt="Typing SVG" /></a>
 
 Amo aprender coisas novas e tenho uma curiosidade por tudo que envolve o mundo da tecnologia.
 Estou sempre buscando aprender novas ferramentas e técnicas para criar soluções que impactem positivamente as pessoas e o mundo ao meu redor.
