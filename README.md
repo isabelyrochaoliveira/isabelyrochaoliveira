@@ -6,14 +6,9 @@ Estou sempre buscando aprender novas ferramentas e técnicas para criar soluçõ
 #### Formação:
 •  💻 Técnica em Informática - IFSP (Instituto Federal de São Paulo)
 
-#### Vamos nos conectar:
-<a href="https://www.linkedin.com/in/isabely-rocha-de-oliveira-7121b8255">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="">
-  <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
-</a>
+### 🚀 Projetos em Destaque
+- [**Bis Happy Mind**](https://github.com/isabelyrochaoliveira/BisHappyMind)  
+  Aplicativo que utiliza **React Native** para monitoramento emocional com integração a smartwatches e realidade virtual.
 
 ##
 #### 🔧 Minhas habilidades em tecnologia incluem:
@@ -34,7 +29,11 @@ Estou sempre buscando aprender novas ferramentas e técnicas para criar soluçõ
 </div>
 
 ##
-### 🚀 Projetos em Destaque
-- [**Bis Happy Mind**](https://github.com/isabelyrochaoliveira/BisHappyMind)  
-  Aplicativo que utiliza **React Native** para monitoramento emocional com integração a smartwatches e realidade virtual.
+#### Vamos nos conectar:
+<a href="https://www.linkedin.com/in/isabely-rocha-de-oliveira-7121b8255">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
+<a href="">
+  <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
+</a>
