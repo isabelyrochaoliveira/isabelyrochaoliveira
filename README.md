@@ -2,11 +2,12 @@
 
 Amo aprender coisas novas e tenho uma curiosidade por tudo que envolve o mundo da tecnologia.
 Estou sempre buscando aprender novas ferramentas e técnicas para criar soluções que impactem positivamente as pessoas e o mundo ao meu redor.
-##
 
+##
 #### Formação:
 •  💻 Técnica em Informática - IFSP (Instituto Federal de São Paulo)
 
+##
 #### Vamos nos conectar:
 <a href="https://www.linkedin.com/in/isabely-rocha-de-oliveira-7121b8255">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
