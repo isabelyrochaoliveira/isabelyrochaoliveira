@@ -6,6 +6,7 @@ Estou sempre buscando aprender novas ferramentas e técnicas para criar soluçõ
 #### Formação:
 •  💻 Técnica em Informática - IFSP (Instituto Federal de São Paulo)
 
+##
 ### 🚀 Projetos em Destaque
 - [**Bis Happy Mind**](https://github.com/isabelyrochaoliveira/BisHappyMind)  
   Aplicativo que utiliza **React Native** para monitoramento emocional com integração a smartwatches e realidade virtual.
