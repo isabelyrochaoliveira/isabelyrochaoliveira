@@ -6,7 +6,6 @@ Estou sempre buscando aprender novas ferramentas e técnicas para criar soluçõ
 #### Formação:
 •  💻 Técnica em Informática - IFSP (Instituto Federal de São Paulo)
 
-##
 #### Vamos nos conectar:
 <a href="https://www.linkedin.com/in/isabely-rocha-de-oliveira-7121b8255">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
