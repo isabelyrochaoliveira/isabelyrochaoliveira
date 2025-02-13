@@ -5,6 +5,7 @@ Estou sempre buscando aprender novas ferramentas e técnicas para criar soluçõ
 
 #### Formação:
 •  💻 Técnica em Informática - IFSP (Instituto Federal de São Paulo)
+•  💻 Desenvolvimento de Software Multiplataforma - Fatec de Indaiatuba
 
 ##
 ### 🚀 Projetos em Destaque
