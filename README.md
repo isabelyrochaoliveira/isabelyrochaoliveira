@@ -4,8 +4,8 @@ Amo aprender coisas novas e tenho uma curiosidade por tudo que envolve o mundo d
 Estou sempre buscando aprender novas ferramentas e técnicas para criar soluções que impactem positivamente as pessoas e o mundo ao meu redor.
 
 #### Formação:
-•  💻 Técnica em Informática - IFSP (Instituto Federal de São Paulo) <br>
-•  💻 Desenvolvimento de Software Multiplataforma - Fatec de Indaiatuba
+•  💻 Técnica em Informática - IFSP (Instituto Federal de São Paulo - Campus Bragança Paulista) <br>
+•  💻 Engenharia de Software - IFSP (Instituto Federal de São Paulo - Campus São Carlos)
 
 ##
 ### 🚀 Projetos em Destaque
