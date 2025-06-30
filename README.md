@@ -8,11 +8,6 @@ Estou sempre buscando aprender novas ferramentas e técnicas para criar soluçõ
 •  💻 Engenharia de Software - IFSP (Instituto Federal de São Paulo - Campus São Carlos)
 
 ##
-### 🚀 Projetos em Destaque
-- [**Bis Happy Mind**](https://github.com/isabelyrochaoliveira/BisHappyMind)  
-  Aplicativo que utiliza **React Native** para monitoramento emocional com integração a smartwatches e realidade virtual.
-
-##
 #### 🔧 Minhas habilidades em tecnologia incluem:
 <div style="display: inline">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
