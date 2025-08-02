@@ -25,6 +25,11 @@ Estou sempre buscando aprender novas ferramentas e técnicas para criar soluçõ
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 </div>
 
+<div align="center">
+  ## 📊 Linguagens mais usadas
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabelyrochaoliveira&layout=compact&langs_count=6&theme=radical)
+</div>
+
 ##
 #### Vamos nos conectar:
 <a href="https://www.linkedin.com/in/isabelyrochadeoliveira/">
