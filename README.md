@@ -8,7 +8,7 @@ Estou sempre buscando aprender novas ferramentas e técnicas para criar soluçõ
 •  💻 Engenharia de Software - IFSP (Instituto Federal de São Paulo - Campus São Carlos)
 
 ##
-#### 🔧 Minhas habilidades em tecnologia incluem:
+#### Minhas habilidades em tecnologia incluem:
 <div style="display: inline">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -26,7 +26,7 @@ Estou sempre buscando aprender novas ferramentas e técnicas para criar soluçõ
 </div>
 
 ## 
-#### 📊 Linguagens mais usadas:
+#### Linguagens mais usadas:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabelyrochaoliveira&layout=compact&langs_count=6&theme=radical)
 
 ##
