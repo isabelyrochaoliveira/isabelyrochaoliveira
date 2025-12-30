@@ -41,10 +41,3 @@ Amo aprender coisas novas e transformar desafios em soluções tecnológicas. At
 <a href="https://isabelyrochaoliveira.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
 </a>
-
----
-
-### 📊 Estatísticas
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelyrochaoliveira&layout=compact&theme=vision-friendly-dark" />
-</p>
