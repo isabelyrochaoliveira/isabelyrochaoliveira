@@ -21,10 +21,6 @@ Estou sempre buscando aprender novas ferramentas e técnicas para criar soluçõ
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
 </div>
 
-## 
-#### Linguagens mais usadas:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabelyrochaoliveira&layout=compact&langs_count=6&theme=radical)
-
 ##
 #### Vamos nos conectar:
 <a href="https://www.linkedin.com/in/isabelyrochadeoliveira/">
