@@ -38,3 +38,6 @@ I love learning new things and turning challenges into technological solutions. 
 <a href="https://www.linkedin.com/in/isabelyrochadeoliveira/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+<a href="isabelyrocha.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
