@@ -1,10 +1,10 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=F2F70E&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+me+chamo+Isabely+Rocha!;Sou+desenvolvedora;Sou+t%C3%A9cnica+de+inform%C3%A1tica;Sou+programadora" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=F2F70E&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Isabely+Rocha!;I'm+a+Software+Developer;I'm+an+IT+Technician;I'm+a+Programmer" alt="Typing SVG" /></a>
 
-Amo aprender coisas novas e transformar desafios em soluções tecnológicas. Atualmente, curso **Engenharia de Software no IFSP** e busco evoluir constantemente no desenvolvimento Web e Mobile, criando projetos que impactem positivamente as pessoas ao meu redor.
+I love learning new things and turning challenges into technological solutions. Currently, I'm pursuing a **B.S. in Software Engineering at IFSP**, constantly evolving in Web and Mobile development to create projects that positively impact the people around me.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Technologies and Tools
 
 **Frontend & Mobile**
 <div>
@@ -28,13 +28,13 @@ Amo aprender coisas novas e transformar desafios em soluções tecnológicas. At
 
 ---
 
-### 🎓 Formação
-* 💻 **Bacharelado em Engenharia de Software** - IFSP Campus São Carlos
-* 💻 **Técnico em Informática** - IFSP Campus Bragança Paulista
+### 🎓 Education
+* 💻 **B.S. in Software Engineering** - IFSP Campus São Carlos
+* 💻 **Associate Degree in Information Technology** - IFSP Campus Bragança Paulista
 
 ---
 
-### 📫 Vamos nos conectar?
+### 📫 Let's connect!
 <a href="https://www.linkedin.com/in/isabelyrochadeoliveira/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
