@@ -1,14 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=F2F70E&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Isabely+Rocha!;I'm+a+Software+Developer;I'm+an+IT+Technician;I'm+a+Programmer" alt="Typing SVG" /></a>
 
-<details>
-  <summary>🌐 <b>Read in English</b></summary>
-  <p>I love learning new things and turning challenges into technological solutions. Currently, I'm pursuing a <b>B.S. in Software Engineering at IFSP</b>, constantly evolving in Web and Mobile development to create projects that positively impact the people around me.</p>
-</details>
-
-<details open>
-  <summary>🌐 <b>Leia em Português</b> (Padrão)</summary>
-  <p>Apaixonada por aprender coisas novas e transformar desafios em soluções tecnológicas. Atualmente, curso <b>Engenharia de Software no IFSP</b>, evoluindo constantemente no desenvolvimento Web e Mobile para criar projetos que impactem positivamente as pessoas ao meu redor.</p>
-</details>
+| 🇺🇸 English | 🇧🇷 Português |
+| :--- | :--- |
+| I love learning new things and turning challenges into technological solutions. Currently, I'm pursuing a **B.S. in Software Engineering at IFSP**, constantly evolving in Web and Mobile development to create projects that positively impact the people around me. | Apaixonada por aprender coisas novas e transformar desafios em soluções tecnológicas. Atualmente, curso **Engenharia de Software no IFSP**, evoluindo no desenvolvimento Web e Mobile para criar projetos que impactem as pessoas ao meu redor. |
 
 ---
 
@@ -40,29 +34,12 @@
 
 #### [BisHappyMind](https://github.com/isabelyrochaoliveira/BisHappyMind)
 
-<details open>
-  <summary>🇺🇸 English Description</summary>
-  <br>
-  <b>Mobile Application for Mental Health & Anxiety Management</b>
-  <p>A mobile solution designed to help teenagers manage and reduce anxiety through real-time monitoring and evidence-based interventions.</p>
-  <ul>
-    <li><b>Heart Rate Monitoring:</b> Integrates sensors to track real-time heart rate, identifying patterns often associated with anxiety spikes.</li>
-    <li><b>Personalized Interventions:</b> Offers tailored therapeutic options, including <b>Music Therapy</b> and <b>Virtual Reality (VR)</b>.</li>
-    <li><b>Tech Stack:</b> React Native, Spring Boot, Java.</li>
-  </ul>
-</details>
-
-<details>
-  <summary>🇧🇷 Descrição em Português</summary>
-  <br>
-  <b>Aplicação Móvel para Saúde Mental e Controle de Ansiedade</b>
-  <p>Uma solução mobile projetada para ajudar adolescentes a gerenciar e reduzir a ansiedade por meio de monitoramento em tempo real e intervenções baseadas em evidências.</p>
-  <ul>
-    <li><b>Monitoramento Cardíaco:</b> Integra sensores para acompanhar os batimentos em tempo real, identificando padrões associados a crises de ansiedade.</li>
-    <li><b>Intervenções Personalizadas:</b> Oferece opções terapêuticas como <b>Musicoterapia</b> e <b>Realidade Virtual (VR)</b>.</li>
-    <li><b>Tecnologias:</b> React Native, Spring Boot, Java.</li>
-  </ul>
-</details>
+| Feature (EN) | Funcionalidade (PT) |
+| :--- | :--- |
+| **Anxiety Management:** Mobile app for teenagers using real-time monitoring. | **Gestão de Ansiedade:** App móvel para adolescentes com monitoramento em tempo real. |
+| **Heart Rate:** Tracking heart spikes associated with anxiety. | **Batimentos Cardíacos:** Acompanhamento de picos associados à ansiedade. |
+| **Interventions:** Personalized Music Therapy and VR options. | **Intervenções:** Opções de Musicoterapia e Realidade Virtual. |
+| **Tech Stack:** React Native, Spring Boot, Java. | **Tecnologias:** React Native, Spring Boot, Java. |
 
 ---
 
