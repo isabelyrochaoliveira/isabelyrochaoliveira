@@ -2,11 +2,11 @@
 
 | 🇺🇸 English | 🇧🇷 Português |
 | :--- | :--- |
-| I love learning new things and turning challenges into technological solutions. Currently, I'm pursuing a **B.S. in Software Engineering at IFSP**, constantly evolving in Web and Mobile development to create projects that positively impact the people around me. | Apaixonada por aprender coisas novas e transformar desafios em soluções tecnológicas. Atualmente, curso **Engenharia de Software no IFSP**, evoluindo no desenvolvimento Web e Mobile para criar projetos que impactem as pessoas ao meu redor. |
+| I love learning new things and turning challenges into technological solutions. Currently, I'm pursuing a **B.S. in Software Engineering at IFSP**, constantly evolving in Web and Mobile development to create projects that positively impact the people around me. | Apaixonada por aprender coisas novas e transformar desafios em soluções tecnológicas. Atualmente, curso **Engenharia de Software no IFSP**, evoluindo no desenvolvimento Web e Mobile para criar projetos que impactem positivamente as pessoas ao meu redor. |
 
 ---
 
-### 🛠️ Technologies and Tools
+### 🛠️ Technologies and Tools | Tecnologias e Ferramentas
 
 **Frontend & Mobile**
 <div>
@@ -34,22 +34,25 @@
 
 #### [BisHappyMind](https://github.com/isabelyrochaoliveira/BisHappyMind)
 
-| Feature (EN) | Funcionalidade (PT) |
+| 🇺🇸 Description | 🇧🇷 Descrição |
 | :--- | :--- |
-| **Anxiety Management:** Mobile app for teenagers using real-time monitoring. | **Gestão de Ansiedade:** App móvel para adolescentes com monitoramento em tempo real. |
-| **Heart Rate:** Tracking heart spikes associated with anxiety. | **Batimentos Cardíacos:** Acompanhamento de picos associados à ansiedade. |
-| **Interventions:** Personalized Music Therapy and VR options. | **Intervenções:** Opções de Musicoterapia e Realidade Virtual. |
-| **Tech Stack:** React Native, Spring Boot, Java. | **Tecnologias:** React Native, Spring Boot, Java. |
+| **Mental Health App:** Designed to help teenagers manage anxiety through real-time monitoring and evidence-based interventions. | **App de Saúde Mental:** Projetado para ajudar adolescentes a gerenciar a ansiedade por meio de monitoramento e intervenções. |
+| **Heart Rate Monitoring:** Tracks real-time heart rate to identify spikes associated with anxiety crises. | **Monitoramento Cardíaco:** Acompanha os batimentos em tempo real para identificar picos associados a crises. |
+| **Personalized Interventions:** Offers Music Therapy or Virtual Reality (VR) options tailored to user needs. | **Intervenções Personalizadas:** Oferece opções de Musicoterapia ou Realidade Virtual (VR) adaptadas ao usuário. |
+| **Tech Stack:** React Native, Spring Boot, and Java. | **Tecnologias:** React Native, Spring Boot e Java. |
 
 ---
 
 ### 🎓 Education | Formação
-* 💻 **B.S. in Software Engineering** - IFSP Campus São Carlos
-* 💻 **Associate Degree in Information Technology** - IFSP Campus Bragança Paulista
+
+| 🇺🇸 Academic Background | 🇧🇷 Histórico Acadêmico |
+| :--- | :--- |
+| 💻 **B.S. in Software Engineering** <br> IFSP Campus São Carlos | 💻 **Bacharelado em Engenharia de Software** <br> IFSP Campus São Carlos |
+| 💻 **Associate Degree in IT** <br> IFSP Campus Bragança Paulista | 💻 **Técnico em Informática** <br> IFSP Campus Bragança Paulista |
 
 ---
 
-### 📫 Let's connect!
+### 📫 Let's connect! | Vamos nos conectar!
 <a href="https://www.linkedin.com/in/isabelyrochadeoliveira/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
