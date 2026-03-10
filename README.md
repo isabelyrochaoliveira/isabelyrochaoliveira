@@ -28,6 +28,19 @@ I love learning new things and turning challenges into technological solutions. 
 
 ---
 
+### 🚀 Featured Project
+
+#### [BisHappyMind](https://github.com/isabelyrochaoliveira/BisHappyMind)
+**Mobile Application for Mental Health & Anxiety Management**
+
+A mobile solution designed to help teenagers manage and reduce anxiety through real-time monitoring and evidence-based interventions.
+
+* **Heart Rate Monitoring:** Integrates sensors to track real-time heart rate, identifying patterns often associated with anxiety spikes.
+* **Personalized Interventions:** When high anxiety levels are detected, the app offers tailored therapeutic options, including **Music Therapy** and **Virtual Reality (VR)** experiences.
+* **Tech Stack:** `React Native`, `Spring Boot`, `Java`.
+
+---
+
 ### 🎓 Education
 * 💻 **B.S. in Software Engineering** - IFSP Campus São Carlos
 * 💻 **Associate Degree in Information Technology** - IFSP Campus Bragança Paulista
@@ -38,6 +51,6 @@ I love learning new things and turning challenges into technological solutions. 
 <a href="https://www.linkedin.com/in/isabelyrochadeoliveira/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="isabelyrocha.dev@gmail.com">
+<a href="mailto:isabelyrocha.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
