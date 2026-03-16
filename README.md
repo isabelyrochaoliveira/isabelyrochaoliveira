@@ -30,6 +30,17 @@
 
 ---
 
+### 📊 My Coding Stats | Minhas Estatísticas
+
+<br>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelyrochaoliveira&layout=compact&langs_count=7&theme=dracula&hide_border=true&title_color=F2F70E&icon_color=F2F70E" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabelyrochaoliveira&show_icons=true&theme=dracula&hide_border=true&title_color=F2F70E&icon_color=F2F70E" />
+</div>
+
+---
+
 ### 🚀 Featured Project | Projeto em Destaque
 
 #### [BisHappyMind](https://github.com/isabelyrochaoliveira/BisHappyMind)
