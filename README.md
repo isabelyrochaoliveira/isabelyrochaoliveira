@@ -41,19 +41,6 @@
 
 ---
 
-### 🚀 Featured Project | Projeto em Destaque
-
-#### [BisHappyMind](https://github.com/isabelyrochaoliveira/BisHappyMind)
-
-| 🇺🇸 Description | 🇧🇷 Descrição |
-| :--- | :--- |
-| **Mental Health App:** Designed to help teenagers manage anxiety through real-time monitoring and evidence-based interventions. | **App de Saúde Mental:** Projetado para ajudar adolescentes a gerenciar a ansiedade por meio de monitoramento e intervenções. |
-| **Heart Rate Monitoring:** Tracks real-time heart rate to identify spikes associated with anxiety crises. | **Monitoramento Cardíaco:** Acompanha os batimentos em tempo real para identificar picos associados a crises. |
-| **Personalized Interventions:** Offers Music Therapy or Virtual Reality (VR) options tailored to user needs. | **Intervenções Personalizadas:** Oferece opções de Musicoterapia ou Realidade Virtual (VR) adaptadas ao usuário. |
-| **Tech Stack:** React Native, Spring Boot, and Java. | **Tecnologias:** React Native, Spring Boot e Java. |
-
----
-
 ### 🎓 Education | Formação
 
 | 🇺🇸 Academic Background | 🇧🇷 Histórico Acadêmico |
