@@ -6,31 +6,50 @@
 
 ---
 
-### 🛠️ Technologies and Tools | Tecnologias e Ferramentas
+### Technologies and Tools | Tecnologias e Ferramentas
 
-**Frontend & Mobile**
+**Languages | Linguagens**
 <div>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div>
 
 <br>
 
-**Backend & Database**
+**Frameworks & Libraries | Frameworks e Bibliotecas**
 <div>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+</div>
+
+<br>
+
+**Databases & Services | Banco de Dados e Serviços**
+<div>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+</div>
+
+<br>
+
+**Tools & Infrastructure | Ferramentas e Infraestrutura**
+<div>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white">
 </div>
 
 ---
 
-### 📊 My Coding Stats | Minhas Estatísticas
+### My Coding Stats | Minhas Estatísticas
 
 <br>
 
@@ -41,16 +60,16 @@
 
 ---
 
-### 🎓 Education | Formação
+### Education | Formação
 
 | 🇺🇸 Academic Background | 🇧🇷 Histórico Acadêmico |
 | :--- | :--- |
-| 💻 **B.S. in Software Engineering** <br> IFSP Campus São Carlos | 💻 **Bacharelado em Engenharia de Software** <br> IFSP Campus São Carlos |
-| 💻 **Associate Degree in IT** <br> IFSP Campus Bragança Paulista | 💻 **Técnico em Informática** <br> IFSP Campus Bragança Paulista |
+| **B.S. in Software Engineering** <br> IFSP Campus São Carlos | **Bacharelado em Engenharia de Software** <br> IFSP Campus São Carlos |
+| **Associate Degree in IT** <br> IFSP Campus Bragança Paulista | **Técnico em Informática** <br> IFSP Campus Bragança Paulista |
 
 ---
 
-### 📫 Let's connect! | Vamos nos conectar!
+### Let's connect! | Vamos nos conectar!
 <a href="https://www.linkedin.com/in/isabelyrochadeoliveira/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
